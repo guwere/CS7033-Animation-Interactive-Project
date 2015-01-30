@@ -1,0 +1,215 @@
+|<2> ..\src\Model.cpp:430 : neck |
+|<2> ..\src\Model.cpp:430 : head |
+|<2> ..\src\Model.cpp:430 : eye_L |
+|<2> ..\src\Model.cpp:430 : eye_R |
+|<2> ..\src\Model.cpp:430 : collar_R |
+|<2> ..\src\Model.cpp:430 : collar_L |
+|<2> ..\src\Model.cpp:430 : hand_R |
+|<2> ..\src\Model.cpp:430 : hand_L |
+|<2> ..\src\Model.cpp:430 : eye_L |
+|<2> ..\src\Model.cpp:430 : eye_R |
+|<2> ..\src\Model.cpp:430 : shin_R |
+|<2> ..\src\Model.cpp:430 : shin_L |
+|<2> ..\src\Model.cpp:430 : foot_L |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : nielsen |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : nielsen |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : nielsen |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : nielsen |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : nielsen |
+|<2> ..\src\Model.cpp:430 : hips |
+|<2> ..\src\Model.cpp:430 : thigh.L |
+|<2> ..\src\Model.cpp:430 : thigh.R |
+|<2> ..\src\Model.cpp:430 : shoulder.L |
+|<2> ..\src\Model.cpp:430 : shoulder.R |
+|<2> ..\src\Model.cpp:430 : hips |
+|<2> ..\src\Model.cpp:430 : spine |
+|<2> ..\src\Model.cpp:430 : forearm.L |
+|<2> ..\src\Model.cpp:430 : thigh.L |
+|<2> ..\src\Model.cpp:430 : shin.L |
+|<2> ..\src\Model.cpp:430 : thigh.R |
+|<2> ..\src\Model.cpp:430 : shin.R |
+|<2> ..\src\Model.cpp:430 : chest |
+|<2> ..\src\Model.cpp:430 : neck |
+|<2> ..\src\Model.cpp:430 : head |
+|<2> ..\src\Model.cpp:430 : shoulder.L |
+|<2> ..\src\Model.cpp:430 : shoulder.R |
+|<2> ..\src\Model.cpp:430 : thigh.L |
+|<2> ..\src\Model.cpp:430 : shin.L |
+|<2> ..\src\Model.cpp:430 : shoulder.R |
+|<2> ..\src\Model.cpp:430 : upper_arm.R |
+|<2> ..\src\Model.cpp:430 : forearm.R |
+|<2> ..\src\Model.cpp:430 : chest |
+|<2> ..\src\Model.cpp:430 : neck |
+|<2> ..\src\Model.cpp:430 : head |
+|<2> ..\src\Model.cpp:430 : shoulder.L |
+|<2> ..\src\Model.cpp:430 : shoulder.R |
+|<2> ..\src\Model.cpp:430 : thigh.R |
+|<2> ..\src\Model.cpp:430 : shin.R |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : barbarian |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : barbarian |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : barbarian |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : barbarian |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : barbarian |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : barbarian |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : barbarian |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : barbarian |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : barbarian |
+|<4> ..\src\Model.cpp:555 : Assimp 
+ |
+|<4> ..\src\Model.cpp:555 : Assimp 
+ |
+|<4> ..\src\Model.cpp:555 : Assimp 
+ |
+|<4> ..\src\Model.cpp:555 : Assimp 
+ |
+|<4> ..\src\Model.cpp:555 : Assimp 
+ |
+|<4> ..\src\Model.cpp:555 : Assimp 
+ |
+|<4> ..\src\Model.cpp:555 : Assimp 
+ |
+|<4> ..\src\Model.cpp:555 : Assimp 
+ |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : sword |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : sword |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : sword |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : shield |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : shield |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : fixedAxis |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : fixedAxis |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : fixedAxis |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : smallCross |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : smallBall |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : skybox |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : battleArena |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : gate |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : paladin |
+|<4> ..\src\Model.cpp:555 : Assimp 
+ |
+|<4> ..\src\Model.cpp:555 : Assimp 
+ |
+|<4> ..\src\Model.cpp:555 : Assimp 
+ |
+|<4> ..\src\Model.cpp:555 : Assimp 
+ |
+|<4> ..\src\Model.cpp:555 : Assimp 
+ |
+|<4> ..\src\Model.cpp:555 : Assimp 
+ |
+|<4> ..\src\Model.cpp:555 : Assimp 
+ |
+|<4> ..\src\Model.cpp:555 : Assimp 
+ |
+|<2> ..\src\Model.cpp:178 : Loading Materials for : sword2 |
